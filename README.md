@@ -8,7 +8,7 @@ RUN
 
 rm -rf SAB
 
-git clone https://guthub.com/AfghanHack001/SAB.git
+git clone https://github.com/AfghanHack001/SAB.git
 
 ls
 
